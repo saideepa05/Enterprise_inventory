@@ -63,3 +63,6 @@ A production-grade Hybrid AI Agent that bridges the gap between structured relat
 
 ---
 *Developed for the UPSKILL LangChain program.*
+
+<img width="1110" height="581" alt="image" src="https://github.com/user-attachments/assets/0825d3df-9754-466f-b3df-c9fedb79c14f" />
+
