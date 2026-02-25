@@ -33,11 +33,18 @@ st.markdown("""
     
     /* Force white text in sidebar for contrast */
     [data-testid="stSidebar"] [data-testid="stMarkdownContainer"] p, 
+    [data-testid="stSidebar"] [data-testid="stMarkdownContainer"] li,
     [data-testid="stSidebar"] h1, 
     [data-testid="stSidebar"] h2, 
     [data-testid="stSidebar"] h3,
     [data-testid="stSidebar"] span {
         color: white !important;
+    }
+
+    /* Target the text color inside sidebar buttons specifically */
+    [data-testid="stSidebar"] .stButton button p {
+        color: #0F172A !important;
+        font-weight: 600;
     }
 
     /* Style for the 'info' boxes in sidebar */
