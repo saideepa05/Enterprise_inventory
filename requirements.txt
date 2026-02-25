@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+chromadb
+pydantic
+streamlit
+pandas
+python-dotenv
+tiktoken
+pymupdf
+langchain-community
+sqlalchemy

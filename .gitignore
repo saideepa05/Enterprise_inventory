@@ -1,0 +1,12 @@
+# Enterprise Inventory Project - Ignore List
+.env
+__pycache__/
+*.pyc
+.venv/
+.streamlit/
+chroma_db/
+inventory.db
+diamonds.csv
+products.csv
+setup_data.py
+init_inventory_db.py
