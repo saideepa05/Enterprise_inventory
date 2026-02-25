@@ -8,5 +8,5 @@ chroma_db/
 inventory.db
 diamonds.csv
 products.csv
-setup_data.py
-init_inventory_db.py
+# We want to keep setup_data.py and init_inventory_db.py 
+# so others can setup the database themselves.
