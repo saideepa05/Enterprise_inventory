@@ -62,7 +62,7 @@ A production-grade Hybrid AI Agent that bridges the gap between structured relat
 - **Hybrid**: "Find the price of the most expensive diamond and tell me if I need manager approval to sell it."
 
 ---
-*Developed for the UPSKILL LangChain program.*
+*Below is how the developed AI Agent looks like.*
 
 <img width="1110" height="581" alt="image" src="https://github.com/user-attachments/assets/0825d3df-9754-466f-b3df-c9fedb79c14f" />
 
